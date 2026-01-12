@@ -24,6 +24,6 @@ Click through the sections below to explore the specific frameworks, technical p
 
 ### 📊 Pillar 4: Quality Intelligence
 *The data-driven evidence of engineering success.*
-* **[Intelligence Dashboard](./metrics/quality-intelligence-dashboard.md):** Beyond DORA—measuring Defect Escape Rates and the Cost of Quality (CoQ).
+* **[Intelligence Dashboard](./metrics/quality-intelligence-dashboard.md):** Beyond DORA-measuring Defect Escape Rates and the Cost of Quality (CoQ).
 
 ---
